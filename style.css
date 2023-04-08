@@ -1,12 +1,22 @@
 .fa-heart{
     color:rgba(255, 0, 0, 0.849);
 }
+.fa-star{
+    color: gold;
+}
 body{
     background-color: #222222;
-}
-header{
+    text-align: center;
     color: antiquewhite;
     text-align: center;
+    font-family: "anuphan";
+    font-size: medium;
+}
+header, footer{
+    color: antiquewhite;
+    text-align: center;
+    font-family: "roboto";
+    font-size: large;
 }
 img {
     height: 300px;
