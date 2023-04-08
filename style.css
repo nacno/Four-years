@@ -1,0 +1,14 @@
+.fa-heart{
+    color:rgba(255, 0, 0, 0.849);
+}
+body{
+    background-color: #222222;
+}
+header{
+    color: antiquewhite;
+    text-align: center;
+}
+img {
+    height: 300px;
+    width: 250px;
+  }
